@@ -1,0 +1,6 @@
+installation instructions:
+
+1.) put code.theme in your ~/.irssi/ directory
+2.) open irssi, and type: /set theme code.theme
+3.) /save
+4.) enjoy!
